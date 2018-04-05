@@ -1,0 +1,14 @@
+{
+    "name": "ryan12324/gentrack-phpsdk",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Ryan Johnson",
+            "email": "ryan12324@googlemail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "ryan12324\\GentrackPhpSdk": "src/"
+    }
+}
